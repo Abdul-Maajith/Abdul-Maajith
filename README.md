@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Abdul Maajith...
 
-- 🔭 I’m currently working on Front-end Technologies like React JS And DataScience with python
+- 🔭 I’m currently working on Front-end Technologies like React JS, JavaScript And DataScience with python
 - 🌱 I’m currently learning React Native, Django for Backend, Learning to trade and Invest
 - 🤔 I’m looking for help to develop my Technical and Financial skill
 - 💬 Ask me about React JS, Python or Any Tech Related work
